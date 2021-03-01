@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="days.Day10Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-16T13:51:49" hostname="Philips-MBP.home" time="0.049">
+  <properties/>
+  <testcase name="Test part 1" classname="days.Day10Test" time="0.049"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
